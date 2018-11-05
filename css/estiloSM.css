@@ -1,0 +1,27 @@
+body > div {
+	position: absolute;
+	right: 0;
+}
+
+div > div{
+	float: left;
+	border: 2px solid #606060;
+	margin-right: 17px;
+	width: 101px;
+	height: 144px;
+	border-radius: 10px;
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	padding-left: 17px; 
+	vertical-align: middle;
+	line-height: 144px; 
+	
+}
+
+.even {
+	background-color:  #f7fade;
+}
+
+.odd {
+	background-color: #dfedd6;
+}
